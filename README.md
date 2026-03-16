@@ -22,7 +22,7 @@ An exclusive and free program promoted by Rocketseat to teach web technologies. 
 <br>
 
 <p align="center">
-  <img alt="project DevLinks" src=".github/preview.jpg">
+  <img alt="project DevLinks" src=".vscode/.github/preview.jpg">
 </p>
 
 ## 🚀 Technologies
