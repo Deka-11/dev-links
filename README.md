@@ -4,6 +4,9 @@
 An exclusive and free program promoted by Rocketseat to teach web technologies. <br/>
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Study this project in video format by clicking here.</a>
 </p>
+<p align= "center">
+<a href= "https://deka-11.github.io/dev-links/">Visit site</a>
+</p>
 
 <p align="center">
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,7 +24,7 @@ An exclusive and free program promoted by Rocketseat to teach web technologies. 
 <br>
 
 <p align="center">
-  <img alt="project DevLinks" src=".vscode/.github/preview.jpg">
+  <img alt="project DevLinks" src=".github/preview.jpg">
 </p>
 
 ## 🚀 Technologies
